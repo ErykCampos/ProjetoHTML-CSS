@@ -1,0 +1,121 @@
+h1{
+    color: yellow;
+    font-size: 20px;
+    font-family: 'arial';
+    
+}
+
+h2{
+    color: white;
+    font-size: 12px;
+    font-family: 'Arial';
+
+}
+
+body {
+    background-color: #1C1C1C
+}
+
+body{ 
+    background-image: url("../imagens/ranger.jpg"); 
+    background-repeat: no-repeat, repeat;
+    background-size: 100%;
+}
+
+body{ david
+    background-image: url("../imagens/david.jpg"); 
+    background-repeat: no-repeat, repeat;
+    background-size: 100%;
+}
+
+.logo {
+    margin: 0;
+    text-align: center;
+}
+
+.logo, .manchete, .headline{
+    margin: 0;
+    text-align: center;
+}
+
+.line{
+    font-size: 15px;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin: 0;
+    text-align: center;
+}
+
+.video{
+    text-align: center;
+    margin: 0;
+}
+
+body {
+    background-image: url("../imagens/ranger.jpg");
+    background-repeat: repeat;
+    background-size: 100%;
+    font-family: 'lato';
+    line-height: 1.5;
+    color: white;
+}
+body { david
+    background-image: url("../imagens/david.jpg");
+    background-repeat: repeat;
+    background-size: 100%;
+    font-family: 'lato';
+    line-height: 1.5;
+    color: white;
+}
+
+article{
+    margin: 0;
+    text-align: center  ;
+
+}
+
+
+.kitotto{
+    text-align: center;
+    margin: 0 30px;
+    width: 100%;
+}
+
+.kitotto table{
+    background: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+
+#menu ul {
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu li a{
+    padding: 10px 64px;
+    display: inline-block;
+    background-color: black;
+    color: yellow;
+    text-decoration: none;
+    border-bottom: 3px solid white;
+}
+
+#menu ul li a:hover{
+    background-color: yellow;
+    color: black;
+    border-bottom: 3px solid yellow;
+}
+
+
+
+}
